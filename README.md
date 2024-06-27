@@ -11,25 +11,32 @@ https://pt-br.reactjs.org/
 https://nodejs.org/en/
 ```
   
-### Instalação
+### INSTALAÇÃO
 
 1. Clone o repositório:
    ```
    git clone `https://github.com/JoaoPedroaac/ProjetosFront-end`
    ```
 2. Instale as dependências:
-   1- NPM 
- Npm é um gerenciador de pacotes, muito util para efetuar instalações, versionamento e comandos no vscode e Git.
-  ```   
-  npm install -g npm
-  ```  
-   2- NODE MODULES  
- Node Modules é um diretório com um ou mais módulos ou bibliotecas JavaScript, usados para adicionar várias funcionalidades a aplicativos ou scripts
-  ```
-  cd primeiro
-  npm install
-  ```
-3. Inicie o servidor de desenvolvimento:
+   
+   1- NPM
+   
+     Npm é um gerenciador de pacotes, muito util para efetuar instalações, versionamento e comandos no vscode e Git.
+
+   ```   
+   npm install -g npm
+   ```  
+
+   2- NODE MODULES
+   
+    É um diretório de módulos ou bibliotecas JavaScript, usados para adicionar várias funcionalidades a aplicativos ou scripts
+
+   ```   
+   cd primeiro
+   npm install
+   ```  
+   
+## 3. Inicie o servidor de desenvolvimento: ##
    ```
    npm start
    ```
