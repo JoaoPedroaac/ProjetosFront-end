@@ -19,15 +19,7 @@ https://nodejs.org/en/
    ```
 2. Instale as dependências:
    
-   1- NPM
-   
-     Npm é um gerenciador de pacotes, muito util para efetuar instalações, versionamento e comandos no vscode e Git.
-
-   ```   
-   npm install -g npm
-   ```  
-
-   2- NODE MODULES
+   - NODE MODULES
    
     É um diretório de módulos ou bibliotecas JavaScript, usados para adicionar várias funcionalidades a aplicativos ou scripts
 
