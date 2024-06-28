@@ -1,6 +1,6 @@
 ## Inicio Projeto Front-end
 
-### Tecnologias
+### 1- Tecnologias
 
 - **React.Js**: Uma biblioteca JavaScript para construir interfaces de usuário, auxiliando de varias maneiras para aprimorar as funcionalidades do software.
 ```
@@ -11,7 +11,7 @@ https://pt-br.reactjs.org/
 https://nodejs.org/en/
 ```
   
-### INSTALAÇÃO
+### 2- instalação
 
 1. Clone o repositório:
    ```
@@ -36,7 +36,7 @@ https://nodejs.org/en/
    npm install
    ```  
    
-## 3. Inicie o servidor de desenvolvimento: ##
+## 3- Inicie o servidor de desenvolvimento: ##
    ```
    npm start
    ```
